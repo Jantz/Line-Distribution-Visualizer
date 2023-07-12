@@ -1,0 +1,4 @@
+In this folder put all the member profile images with same name as in "songData.json".
+Like this:
+Jimin.png
+Nayeon.png
